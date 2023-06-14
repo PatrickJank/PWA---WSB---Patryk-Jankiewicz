@@ -6,7 +6,7 @@
   "display": "browser",
   "orientation": "portrait",
   "scope": "/",
-  "start_url": "/patrickjank.github.io/PWA---WSB---Patryk-Jankiewicz/",
+  "start_url": "https://patrickjank.github.io/PWA---WSB---Patryk-Jankiewicz/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
