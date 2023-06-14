@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    background-image: url('./img/laptop-2838921_1920.jpg');
+    background-position: 40% 43%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: papayawhip;
+}
+
+.flex_column_container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+    header h1 {
+        margin-bottom: 10px;
+        border-bottom: 1px solid papayawhip;
+        padding-bottom: 5px;
+    }
+
+    header a {
+        background-color: lightcoral;
+        color: papayawhip;
+        text-decoration: none;
+        padding: 20px;
+        border-radius: 10px;
+    }
+
+    .testy{
+        padding: 15px;
+    }
+
+    .testy img{
+        width: 100%;
+    }
+    
+    .single_method{
+        margin-bottom: 10px auto;
+    }
