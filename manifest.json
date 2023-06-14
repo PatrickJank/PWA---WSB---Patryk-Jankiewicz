@@ -1,11 +1,11 @@
 {
-  "name": "Blog o kawie",
-  "short_name": "coffee blog",
+  "name": "Strona o typach testów manualnych",
+  "short_name": "typy testów",
   "theme_color": "#164e24",
   "background_color": "#164e24",
   "display": "fullscreen",
   "scope": "/",
-  "start_url": "patrickjank.github.io/PWA---WSB---Patryk-Jankiewicz/",
+  "start_url": "https://patrickjank.github.io/PWA---WSB---Patryk-Jankiewicz/index.html",
   "description": "WSB Typy Testów w ramach projektu WSB",
   "icons": [
     {
